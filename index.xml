@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>¯\_(ツ)_/¯</title>
+    <link>http://branflakes.ca/</link>
+    <description>Recent content on ¯\_(ツ)_/¯</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jul 2022 10:35:41 -0700</lastBuildDate><atom:link href="http://branflakes.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://branflakes.ca/about/</link>
+      <pubDate>Sat, 23 Jul 2022 10:58:10 -0700</pubDate>
+      
+      <guid>http://branflakes.ca/about/</guid>
+      <description>I&amp;rsquo;m obsessive about many things.</description>
+    </item>
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>http://branflakes.ca/posts/hello-world/</link>
+      <pubDate>Sat, 23 Jul 2022 10:35:41 -0700</pubDate>
+      
+      <guid>http://branflakes.ca/posts/hello-world/</guid>
+      <description>Hi, how are you?</description>
+    </item>
+    
+  </channel>
+</rss>
